@@ -1,0 +1,17 @@
+<?php
+$MESS['COMPLEX_PROP_DESC'] = 'Комплексное свойство';
+$MESS['COMPLEX_CPROP_SETTINGS_TITLE'] = 'Настройки полей';
+$MESS['COMPLEX_CPROP_SETTING_BTN_ADD'] = 'Добавить поле';
+$MESS['COMPLEX_CPROP_SETTING_FIELD_TITLE'] = 'Название поля';
+$MESS['COMPLEX_CPROP_SETTING_FIELD_SORT'] = 'Сортировка';
+$MESS['COMPLEX_CPROP_SETTING_FIELD_TYPE'] = 'Тип поля';
+$MESS['COMPLEX_CPROP_FIELD_TYPE_STRING'] = 'Строка';
+$MESS['COMPLEX_CPROP_FIELD_TYPE_FILE'] = 'Файл';
+$MESS['COMPLEX_CPROP_FIELD_TYPE_TEXT'] = 'Текст';
+$MESS['COMPLEX_CPROP_FIELD_TYPE_DATE'] = 'Дата/Время';
+$MESS['COMPLEX_CPROP_FIELD_TYPE_HTML'] = 'HTML/Визуальный редактор';
+$MESS['COMPLEX_CPROP_HIDE_TEXT'] = 'Свернуть';
+$MESS['COMPLEX_CPROP_SHOW_TEXT'] = 'Развернуть';
+$MESS['COMPLEX_CPROP_CLEAR_TEXT'] = 'Очистить';
+$MESS['COMPLEX_CPROP_FILE_DELETE'] = 'Удалить файл';
+
